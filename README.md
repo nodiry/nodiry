@@ -95,38 +95,6 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  HOW I BUILD                                                 ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ◈ SELF-HOST FIRST     I know where my data is. Always.      ║
-║  ◈ RIGHT TOOL          TypeScript fast. Rust when it counts. ║
-║  ◈ COMMENTS MATTER     Code says what. Comments say why.     ║
-║  ◈ TEST WHAT MATTERS   No quotas. Test what breaks users.    ║
-║  ◈ NO NODE.JS          Bun is better. This is not a debate.  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shep&show_icons=true&theme=chartreuse-dark&bg_color=020c06&border_color=00ff8830&icon_color=00ff88&title_color=00ff88&text_color=00cc6a&hide_border=false)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shep&layout=compact&theme=chartreuse-dark&bg_color=020c06&border_color=00ff8830&title_color=00ff88&text_color=00cc6a)
-
-</div>
-
----
-
-<div align="center">
-
-```
-root@shep:~$ █
-```
-
 *built on bun · deployed on ubuntu · maintained with intent*
 
 </div>
