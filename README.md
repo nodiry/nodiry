@@ -1,23 +1,12 @@
-<!--
-  ██████ ██   ██ ███████ ██████
-  ██     ██   ██ ██      ██   ██
-  ███████ ███████ █████  ██████
-       ██ ██   ██ ██     ██
-  ██████  ██   ██ ███████ ██
--->
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   root@shep:~$ whoami                                        ║
-║                                                              ║
 ║   > SHEP — Full-Stack Engineer & Systems Builder             ║
 ║   > Self-hoster. Ships on his own iron. No cap.              ║
 ║   > TypeScript for everything. Rust when it has to be fast.  ║
 ║   > Bun over Node. Always. Non-negotiable.                   ║
-║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
