@@ -69,7 +69,6 @@
 
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-LLM-00ff88?style=flat-square&logoColor=00ff88&labelColor=040f0a)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-INFERENCE-00e5ff?style=flat-square&logo=huggingface&logoColor=00e5ff&labelColor=040f0a)
-![Qdrant](https://img.shields.io/badge/Qdrant-VECTOR_DB-00e5ff?style=flat-square&logoColor=00e5ff&labelColor=040f0a)
 ![RAG](https://img.shields.io/badge/RAG_PIPELINES-BUILT-00ff88?style=flat-square&labelColor=040f0a)
 ![Socket.io](https://img.shields.io/badge/Socket.io-REALTIME-555?style=flat-square&logo=socketdotio&logoColor=aaa&labelColor=040f0a)
 
